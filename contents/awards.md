@@ -1,16 +1,18 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Student, 2024.
+### [Project 1: Predictive Model for Housing Prices](#)
+*   **Tools:** Python, Pandas, Scikit-learn, Matplotlib
+*   Built a regression model to predict real estate prices with 95% accuracy.
+*   Identified key market drivers through feature importance analysis.
 
-- First-Prize Scholarship (CUMT), 2024.
+### [Project 2: Customer Segmentation Analysis](#)
+*   **Tools:** R, ggplot2, dplyr, k-means Clustering
+*   Segmented a company's customer base into distinct groups based on purchasing behavior.
+*   Provided actionable recommendations for targeted marketing campaigns.
 
-- First-Prize Scholarship (CUMT), 2023.
+### [Project 3: Statistical Analysis of Clinical Trial Data](#)
+*   **Tools:** R, Hypothesis Testing, Bayesian Statistics
+*   Analyzed the effectiveness of a new treatment compared to a placebo control group.
+*   Presented findings on statistical significance and effect size.
 
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
-
-- First-Prize Enterprise Scholarship (CUMT), 2020.
-
-- First-Prize Scholarship (CUMT), 2019.
+**[View all of my projects](/projects)** <#!-- This will link to a page you create later -->
