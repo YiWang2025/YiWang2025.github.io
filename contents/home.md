@@ -5,9 +5,12 @@
 I'm a recent Statistics graduate with a passion for turning raw data into meaningful insights through rigorous analysis, predictive modelling, and clear visualization.
 
 
+
+
 ### Education
 B.Sc. in Statistics (GPA: 3.98/4.0), University of Calgary (Canada), 2023.09 - Present\
 M.Ed. in Psychology of Education, The University of Manchester (United Kingdom0, 2016.09 - 2017.11
+
 
 
 
@@ -19,12 +22,14 @@ M.Ed. in Psychology of Education, The University of Manchester (United Kingdom0,
 
 
 
-#### Award
+
+### Award
 Dean's List, University of Calgary, 2024 - 2025
 
 
 
-#### Contact
-Email: yi.beth.wang@gmail.com (mailto:yi.beth.wang@gmail.com)\
-linkedIn: [Yi Wang](https://linkedin.com/in/YiWang)
+
+### Contact
+Email: [yi.beth.wang@gmail.com](mailto:yi.beth.wang@gmail.com)\
+linkedIn: [Yi Wang](https://linkedin.com/in/Yi Wang)
 
