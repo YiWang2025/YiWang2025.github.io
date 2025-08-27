@@ -31,5 +31,5 @@ Dean's List, University of Calgary, 2024 - 2025
 
 ### Contact
 Email: [yi.beth.wang@gmail.com](mailto:yi.beth.wang@gmail.com)\
-linkedIn: [Yi Wang](https://linkedin.com/in/Yi Wang)
+linkedIn: [Yi Wang](https://www.linkedin.com/in/yi-wang-922521323)
 
